@@ -58,10 +58,10 @@
 
   -----
   
-  ### R&R
-  안소현: Server authenticity module & File IO api
-  
-  안홍은: Client program
-  
-  윤가영: Server-Client Socket module & api
+### R&R
+안소현: Server authenticity module & File IO api
+
+안홍은: Client program
+
+윤가영: Server-Client Socket module & api
   
